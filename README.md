@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HuyKhanh-Kevin
-- 👀 I’m interested in software engineering and game developement
+- 👀 I’m interested in software engineering and AI development
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on everything!!!
 - 📫 How to reach me: khanhhuyvo1806@gmail.com
