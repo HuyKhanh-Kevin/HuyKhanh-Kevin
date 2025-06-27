@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on everything!!!
 - 📫 How to reach me: khanhhuyvo1806@gmail.com
-- 😄 Pronouns: happy
 
 <!---
 HuyKhanh-Kevin/HuyKhanh-Kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
